@@ -19,13 +19,15 @@ Groupe de projet :
   - MASSET Antoine
   - MILLERIOUX Nicolas
   
-[daweather.ovh] | [twitter.com/DaWeatherGroup]
 pour plus d'informations | *more informations there*
 
+[DaWeather Website](daweather.ovh) | [Twitter](twitter.com/DaWeatherGroup)
 
-Vidéo de présentation : [https://www.youtube.com/watch?v=rlkLTQd4FsI] 
 
-*Teaser : [https://www.youtube.com/watch?v=cJuikW9qerU]*
+
+[Vidéo de présentation](https://www.youtube.com/watch?v=rlkLTQd4FsI) 
+
+*[Teaser](https://www.youtube.com/watch?v=cJuikW9qerU)*
 
 
 DaWeather Group 
