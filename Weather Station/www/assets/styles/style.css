@@ -1,0 +1,38 @@
+/* General */
+body { background: #42989c; color: #FFF; font-family: Raleway; margin: 0; padding: 0; }
+a { color: #FFF; text-decoration: none; }
+.click { cursor: default !important; moz-user-select: none; ms-user-select: none; user-select: none; webkit-user-select: none; }
+.hand { cursor: pointer; }
+.no-display { display: none; }
+.clear { clear: both; float: none; }
+.fixed { bottom: 0; height: 100%; left: 0; position: fixed; right: 0; top: 0; width: 100%; }
+.container { margin-left: auto; margin-right: auto; width: 1280px; }
+.fullscreen.background { bottom: 0; height: auto; left: 0; min-height: 100%; overflow-x: hidden; position: absolute; right: 0; top: 0; width: 100%; z-index: 9; }
+.fullscreen.content { bottom: 0; left: 0; overflow: scroll; position: absolute; right: 0; top: 0; z-index: 99; }
+.fullscreen.content table { bottom: 0; left: 0; position: absolute; right: 0; top: 0; }
+.fullscreen table { bottom: 0; left: 0; position: absolute; right: 0; top: 0; }
+.green { background-color: #42989c; }
+.grey { background-color: #F7F7F7; }
+
+/* Page */
+h1 { font-size: 90px; font-weight: 600; margin: 30px; }
+h2 { font-size: 70px; font-weight: 600; margin: 30px; margin-bottom: 0px; }
+h3 { font-size: 20px; font-weight: 400; line-height: 26px; margin-bottom: 65px; text-align: center; }
+form { margin-bottom: 40px; margin-top: 30px; }
+input { border: 0; border-radius: 2px; color: #b1b9bc; display: block; font-family: Raleway; font-size: 14px; letter-spacing: 1px; margin-top: 8px; outline: none; padding: 15px; text-align: left; vertical-align: top; width: 384px; }
+button { background: #F7F7F7; border: none; border-radius: 4px; color: #42989c; font-family: Raleway; font-size: 14px; font-weight: 900; letter-spacing: 2px; margin-top: 12px; padding: 18px 25px 18px 25px; text-transform: uppercase; width: 414px; outline: none; }
+
+/* Responsive */
+@media screen and (min-width:992px) and (max-width:1290px) { 
+	.container { width: 960px; }
+}
+@media screen and (max-width:1023px) { 
+	.container { max-width: 100%; width: 100%; }
+}
+@media screen and (max-width:550px) { 
+	.container h1 { display: block; font-size: 370%; margin-left: 0px; margin-right: 0px; width: 100%; }
+	.container h3 { display: block; font-size: 100%; line-height: 130%; margin-bottom: 30px; margin-left: 0px; margin-right: 0px; width: 100%; }
+	.container form { margin-right: 7%; width: 80%; }
+	.container form input { width: 100%; }
+	.container form button { width: 110%; }
+}

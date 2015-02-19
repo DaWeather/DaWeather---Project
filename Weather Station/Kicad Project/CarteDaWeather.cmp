@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 28/01/2015 21:32:18
+
+BeginCmp
+TimeStamp = /54C8D258;
+Reference = +1;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8EE3C;
+Reference = ARD1;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8F200;
+Reference = BMP180;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8C291;
+Reference = BP1;
+ValeurCmp = SW_PUSH;
+IdModule  = PCB_PUSH;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8D248;
+Reference = CONN1;
+ValeurCmp = CONN_7;
+IdModule  = SIL-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8DBB2;
+Reference = CONN2;
+ValeurCmp = CONN_7;
+IdModule  = SIL-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8F7A8;
+Reference = JP1;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8CFEE;
+Reference = P1;
+ValeurCmp = CONN LCD;
+IdModule  = SIL-18;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8B41E;
+Reference = R1;
+ValeurCmp = 10 K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8B42D;
+Reference = R2;
+ValeurCmp = 10 K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8B43C;
+Reference = R3;
+ValeurCmp = 10 K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8B44B;
+Reference = R4;
+ValeurCmp = 10 K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8D08F;
+Reference = R5;
+ValeurCmp = 10 K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8D0E6;
+Reference = R6;
+ValeurCmp = 220;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8FB85;
+Reference = RJ1;
+ValeurCmp = RJ-11;
+IdModule  = scenix4-RJ-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8C2DD;
+Reference = RJ2;
+ValeurCmp = RJ-11;
+IdModule  = scenix4-RJ-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8F4AF;
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = RV2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C8ECC3;
+Reference = TMP36;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+EndListe
